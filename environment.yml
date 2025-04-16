@@ -1,0 +1,13 @@
+name: QC
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - qiskit
+  - qiskit-aer
+  - qiskit-ibm-provider
+  - qiskit-ibm-runtime
+  - matplotlib
+  - pylatexenc
+
